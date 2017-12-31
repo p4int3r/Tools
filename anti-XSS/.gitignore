@@ -1,0 +1,20 @@
+# Temporary file
+temp/
+*.ax
+*.lk
+*.pg
+*.sp
+
+# Binary file
+*.pyc
+*/*.pyc
+*/*/*.pyc
+
+# Bash file
+*.sh
+
+# Report file
+result/
+
+# Mac file
+.DS_Store
